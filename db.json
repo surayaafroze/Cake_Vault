@@ -1,0 +1,344 @@
+{"cake":
+[
+  {
+    "id": 1,
+    "name": "Black Forest Cake",
+    "category": "Chocolate",
+    "price": 950,
+    "currency": "BDT",
+    "rating": 4.9,
+    "picture": "https://source.unsplash.com/600x400/?black-forest-cake",
+    "ingredients": [
+      "Chocolate sponge",
+      "Cherries",
+      "Whipped cream",
+      "Chocolate shavings",
+      "Sugar"
+    ],
+    "description": "A classic chocolate layered cake made with rich cocoa sponge.\nIt is filled with whipped cream and juicy cherries between layers.\nThe top is decorated with chocolate shavings and extra cherries.\nIt has a perfect balance of sweetness and slight bitterness.\nVery popular for birthdays and celebrations."
+  },
+  {
+    "id": 2,
+    "name": "Red Velvet Cake",
+    "category": "Velvet",
+    "price": 1200,
+    "currency": "BDT",
+    "rating": 4.8,
+    "picture": "https://source.unsplash.com/600x400/?red-velvet-cake",
+    "ingredients": [
+      "Cocoa powder",
+      "Buttermilk",
+      "Cream cheese frosting",
+      "Flour",
+      "Sugar"
+    ],
+    "description": "A soft and moist cake with a deep red color and smooth texture.\nMade with a light cocoa flavor blended with buttermilk.\nIt is layered with creamy and slightly tangy cream cheese frosting.\nThe texture is soft, fluffy, and melts in the mouth.\nA premium cake often served at special occasions."
+  },
+  {
+    "id": 3,
+    "name": "Chocolate Fudge Cake",
+    "category": "Chocolate",
+    "price": 1100,
+    "currency": "BDT",
+    "rating": 4.9,
+    "picture": "https://source.unsplash.com/600x400/?chocolate-cake",
+    "ingredients": [
+      "Dark chocolate",
+      "Butter",
+      "Flour",
+      "Eggs",
+      "Cocoa powder"
+    ],
+    "description": "A rich and dense chocolate cake with deep fudgy layers.\nMade using high-quality dark chocolate and cocoa powder.\nIt has a moist texture with an intense chocolate taste.\nOften topped with glossy chocolate ganache.\nPerfect for true chocolate lovers."
+  },
+  {
+    "id": 4,
+    "name": "Vanilla Cream Cake",
+    "category": "Vanilla",
+    "price": 850,
+    "currency": "BDT",
+    "rating": 4.6,
+    "picture": "https://source.unsplash.com/600x400/?vanilla-cake",
+    "ingredients": [
+      "Vanilla sponge",
+      "Whipped cream",
+      "Sugar",
+      "Milk",
+      "Eggs"
+    ],
+    "description": "A light and soft sponge cake flavored with pure vanilla.\nIt is layered with smooth and airy whipped cream.\nThe taste is mild, sweet, and very comforting.\nPerfect for those who prefer simple desserts.\nCommonly used in family gatherings and tea time."
+  },
+  {
+    "id": 5,
+    "name": "Strawberry Cheesecake",
+    "category": "Cheesecake",
+    "price": 1300,
+    "currency": "BDT",
+    "rating": 4.8,
+    "picture": "https://source.unsplash.com/600x400/?strawberry-cheesecake",
+    "ingredients": [
+      "Cream cheese",
+      "Strawberries",
+      "Graham crackers",
+      "Butter",
+      "Sugar"
+    ],
+    "description": "A creamy cheesecake with a smooth and rich cheese base.\nIt is topped with fresh strawberry glaze and slices.\nThe crust is made from crushed graham crackers and butter.\nIt offers a perfect mix of sweet and slightly tangy flavor.\nA favorite chilled dessert for summer."
+  },
+  {
+    "id": 6,
+    "name": "Blueberry Cheesecake",
+    "category": "Cheesecake",
+    "price": 1350,
+    "currency": "BDT",
+    "rating": 4.7,
+    "picture": "https://source.unsplash.com/600x400/?blueberry-cake",
+    "ingredients": [
+      "Cream cheese",
+      "Blueberries",
+      "Graham crust",
+      "Sugar",
+      "Butter"
+    ],
+    "description": "A smooth and creamy cheesecake topped with blueberry sauce.\nThe blueberries add a sweet and slightly tart flavor.\nIt rests on a crunchy graham cracker base.\nThe texture is rich but soft and creamy.\nIdeal for dessert lovers who enjoy fruit flavors."
+  },
+  {
+    "id": 7,
+    "name": "Pineapple Cake",
+    "category": "Fruit",
+    "price": 900,
+    "currency": "BDT",
+    "rating": 4.5,
+    "picture": "https://source.unsplash.com/600x400/?pineapple-cake",
+    "ingredients": [
+      "Pineapple",
+      "Vanilla sponge",
+      "Whipped cream",
+      "Sugar",
+      "Eggs"
+    ],
+    "description": "A soft sponge cake layered with fresh pineapple pieces.\nIt is covered with light whipped cream frosting.\nThe taste is sweet, fruity, and slightly tangy.\nVery refreshing and not too heavy to eat.\nCommonly served in summer celebrations."
+  },
+  {
+    "id": 8,
+    "name": "Mango Cream Cake",
+    "category": "Fruit",
+    "price": 950,
+    "currency": "BDT",
+    "rating": 4.6,
+    "picture": "https://source.unsplash.com/600x400/?mango-cake",
+    "ingredients": [
+      "Mango puree",
+      "Cream",
+      "Flour",
+      "Sugar",
+      "Eggs"
+    ],
+    "description": "A tropical cake made with fresh mango puree and soft sponge.\nIt has layers of smooth and creamy whipped topping.\nThe flavor is rich, fruity, and naturally sweet.\nBest enjoyed chilled for extra freshness.\nVery popular during mango season."
+  },
+  {
+    "id": 9,
+    "name": "Oreo Chocolate Cake",
+    "category": "Chocolate",
+    "price": 1250,
+    "currency": "BDT",
+    "rating": 4.9,
+    "picture": "https://source.unsplash.com/600x400/?oreo-cake",
+    "ingredients": [
+      "Oreo biscuits",
+      "Chocolate sponge",
+      "Cream",
+      "Sugar",
+      "Butter"
+    ],
+    "description": "A rich chocolate cake mixed with crushed Oreo cookies.\nIt has creamy layers combined with crunchy biscuit bits.\nThe taste is sweet, chocolatey, and slightly crunchy.\nOften topped with extra Oreo decorations.\nA modern favorite among young dessert lovers."
+  },
+  {
+    "id": 10,
+    "name": "Carrot Cake",
+    "category": "Healthy",
+    "price": 1000,
+    "currency": "BDT",
+    "rating": 4.4,
+    "picture": "https://source.unsplash.com/600x400/?carrot-cake",
+    "ingredients": [
+      "Carrots",
+      "Walnuts",
+      "Flour",
+      "Eggs",
+      "Cinnamon"
+    ],
+    "description": "A moist cake made with grated carrots and warm spices.\nIt includes walnuts for a crunchy texture.\nThe flavor is lightly sweet with cinnamon aroma.\nOften topped with cream cheese frosting.\nA slightly healthier dessert option."
+  },
+  {
+    "id": 11,
+    "name": "Coffee Mocha Cake",
+    "category": "Coffee",
+    "price": 1150,
+    "currency": "BDT",
+    "rating": 4.7,
+    "picture": "https://source.unsplash.com/600x400/?coffee-cake",
+    "ingredients": [
+      "Coffee",
+      "Cocoa",
+      "Cream",
+      "Flour",
+      "Sugar"
+    ],
+    "description": "A flavorful cake combining coffee and chocolate essence.\nIt has a soft sponge with mocha cream layers.\nThe taste is bold, slightly bitter, and sweet at the same time.\nPerfect for coffee lovers.\nOften served in cafes and special occasions."
+  },
+  {
+    "id": 12,
+    "name": "Butterscotch Cake",
+    "category": "Caramel",
+    "price": 1050,
+    "currency": "BDT",
+    "rating": 4.6,
+    "picture": "https://source.unsplash.com/600x400/?butterscotch-cake",
+    "ingredients": [
+      "Butterscotch",
+      "Cream",
+      "Sugar",
+      "Flour",
+      "Eggs"
+    ],
+    "description": "A sweet cake with rich butterscotch flavor and creamy layers.\nIt has a crunchy caramel topping for extra texture.\nThe taste is buttery and very sweet.\nSoft sponge makes it easy to eat.\nPopular for festive celebrations."
+  },
+  {
+    "id": 13,
+    "name": "Lemon Drizzle Cake",
+    "category": "Citrus",
+    "price": 800,
+    "currency": "BDT",
+    "rating": 4.5,
+    "picture": "https://source.unsplash.com/600x400/?lemon-cake",
+    "ingredients": [
+      "Lemon zest",
+      "Flour",
+      "Sugar",
+      "Butter",
+      "Eggs"
+    ],
+    "description": "A light and fluffy cake with fresh lemon flavor.\nIt has a sweet and tangy lemon glaze on top.\nThe aroma is refreshing and citrusy.\nPerfect for tea time snacks.\nSimple yet very flavorful dessert."
+  },
+  {
+    "id": 14,
+    "name": "Honey Almond Cake",
+    "category": "Nut",
+    "price": 1200,
+    "currency": "BDT",
+    "rating": 4.7,
+    "picture": "https://source.unsplash.com/600x400/?almond-cake",
+    "ingredients": [
+      "Honey",
+      "Almonds",
+      "Flour",
+      "Butter",
+      "Eggs"
+    ],
+    "description": "A nutty cake flavored with natural honey and almonds.\nIt has a soft texture with crunchy almond pieces.\nThe sweetness is natural and not overpowering.\nRich in aroma and flavor.\nGreat for healthy dessert lovers."
+  },
+  {
+    "id": 15,
+    "name": "Rainbow Cake",
+    "category": "Fun",
+    "price": 1400,
+    "currency": "BDT",
+    "rating": 4.8,
+    "picture": "https://source.unsplash.com/600x400/?rainbow-cake",
+    "ingredients": [
+      "Food coloring",
+      "Vanilla sponge",
+      "Cream",
+      "Sugar",
+      "Eggs"
+    ],
+    "description": "A colorful cake made with multiple vibrant layers.\nEach slice shows different rainbow colors.\nIt is soft, sweet, and visually very attractive.\nPerfect for parties and celebrations.\nA fun dessert loved by kids."
+  },
+  {
+    "id": 16,
+    "name": "Tiramisu Cake",
+    "category": "Italian",
+    "price": 1500,
+    "currency": "BDT",
+    "rating": 4.9,
+    "picture": "https://source.unsplash.com/600x400/?tiramisu",
+    "ingredients": [
+      "Mascarpone",
+      "Coffee",
+      "Ladyfingers",
+      "Cocoa powder",
+      "Sugar"
+    ],
+    "description": "A classic Italian dessert made with coffee-soaked layers.\nIt uses mascarpone cheese for creamy texture.\nTopped with cocoa powder for rich flavor.\nSoft, smooth, and slightly bitter-sweet.\nVery elegant and premium dessert."
+  },
+  {
+    "id": 17,
+    "name": "Matcha Green Tea Cake",
+    "category": "Tea",
+    "price": 1350,
+    "currency": "BDT",
+    "rating": 4.6,
+    "picture": "https://source.unsplash.com/600x400/?matcha-cake",
+    "ingredients": [
+      "Matcha powder",
+      "Cream",
+      "Flour",
+      "Sugar",
+      "Eggs"
+    ],
+    "description": "A unique cake made with Japanese matcha green tea powder.\nIt has a light earthy and slightly bitter taste.\nBalanced with sweet cream layers.\nSoft texture with elegant flavor.\nPopular among tea lovers."
+  },
+  {
+    "id": 18,
+    "name": "Coconut Cream Cake",
+    "category": "Tropical",
+    "price": 950,
+    "currency": "BDT",
+    "rating": 4.5,
+    "picture": "https://source.unsplash.com/600x400/?coconut-cake",
+    "ingredients": [
+      "Coconut",
+      "Cream",
+      "Flour",
+      "Sugar",
+      "Eggs"
+    ],
+    "description": "A soft tropical cake flavored with coconut milk and flakes.\nIt has creamy and fluffy texture.\nThe taste is sweet and refreshing.\nOften decorated with coconut shavings.\nPerfect for tropical dessert lovers."
+  },
+  {
+    "id": 19,
+    "name": "Peanut Butter Cake",
+    "category": "Nut",
+    "price": 1100,
+    "currency": "BDT",
+    "rating": 4.7,
+    "picture": "https://source.unsplash.com/600x400/?peanut-butter-cake",
+    "ingredients": [
+      "Peanut butter",
+      "Flour",
+      "Sugar",
+      "Cream",
+      "Eggs"
+    ],
+    "description": "A rich cake made with creamy peanut butter.\nIt has a soft and dense texture.\nThe flavor is nutty, sweet, and slightly salty.\nPerfect for peanut lovers.\nOften paired with chocolate frosting."
+  },
+  {
+    "id": 20,
+    "name": "Hazelnut Chocolate Cake",
+    "category": "Chocolate",
+    "price": 1450,
+    "currency": "BDT",
+    "rating": 4.9,
+    "picture": "https://source.unsplash.com/600x400/?hazelnut-cake",
+    "ingredients": [
+      "Hazelnut",
+      "Chocolate",
+      "Cream",
+      "Flour",
+      "Sugar"
+    ],
+    "description": "A premium chocolate cake enriched with roasted hazelnuts.\nIt has a rich and nutty chocolate flavor.\nSoft sponge layered with creamy filling.\nCrunchy hazelnuts add extra texture.\nPerfect for luxury dessert lovers."
+  }
+]
+}
