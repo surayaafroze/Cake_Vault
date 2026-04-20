@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div >
+    <div className="bg-[#ff99cc] min-h-screen">
       <main>
         <Banner></Banner>
       </main>

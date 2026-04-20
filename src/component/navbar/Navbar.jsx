@@ -3,7 +3,7 @@ import React from 'react';
 
 const Navbar = () => {
   return (
-    <div className='bg-[#ffe6f3]'>
+    <div className='bg-[#f6dcee]'>
     <div className='flex justify-between items-center p-5 px-10 mx-auto'>
        <div>
       <h1 className='text-2xl font-bold'>CakeVault</h1>
