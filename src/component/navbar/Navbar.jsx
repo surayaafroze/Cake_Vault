@@ -1,5 +1,7 @@
 import Link from 'next/link';
 import React from 'react';
+import ThemeSwitch from '../ThemeSwitch';
+
 
 const Navbar = () => {
   return (
@@ -12,7 +14,11 @@ const Navbar = () => {
        <Link href='/'>Home</Link>
      <Link href='/cakes'>Cakes</Link>
      <Link href='/orderedCake'>Ordered Cake</Link>
+     
     </div>
+      <div>
+        <ThemeSwitch></ThemeSwitch>
+      </div>
     </div>
      
     </div>

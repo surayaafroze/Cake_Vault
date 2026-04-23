@@ -1,5 +1,6 @@
 
 
+import OrderedButton from '@/component/OrderedButton';
 import Image from 'next/image';
 import React from 'react';
 
@@ -44,7 +45,9 @@ const cake = cakes.find(cake => cake.id === parseInt(id));
         </div>)}
       </div>
       </div>
-       <div className='flex justify-center items-center mt-20'><button className='btn bg-[#fcd6e5] text-[#ff66a3] font-extrabold p-5 shadow' >Order Now</button></div>
+      <div>
+        <OrderedButton cake={cake}></OrderedButton>
+      </div>
     </div>
     
      </div>
